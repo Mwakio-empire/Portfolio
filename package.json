@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "build": "npx sass style.scss style.css"
+    "build": "npx sass styles/styles.scss styles/styles.css"
   },
   "keywords": [],
   "author": "",
